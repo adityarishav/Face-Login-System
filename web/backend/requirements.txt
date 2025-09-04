@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+pymongo
+opencv-python
+scikit-image
+dlib
+face_recognition
+deepface

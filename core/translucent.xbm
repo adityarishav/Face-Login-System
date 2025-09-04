@@ -1,0 +1,4 @@
+#define translucent_width 8
+#define translucent_height 8
+static unsigned char translucent_bits[] = {
+   0x55, 0xaa, 0x55, 0xaa, 0x55, 0xaa, 0x55, 0xaa};
