@@ -150,7 +150,7 @@ The web application consists of a backend and a frontend that must be run separa
     ```
     The React application will be accessible at `http://localhost:5173` (or another port if 5173 is busy). Open this URL in your web browser.
 
-5  ## 🤝 Contributors
+5  🤝 Contributors
    
    - **[Salah Yasin](https://github.com/salah47)** - Database,Backend and Hshing 
      
