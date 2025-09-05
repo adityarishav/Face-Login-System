@@ -6,7 +6,6 @@ class StorageHandler:
         # It is highly recommended to secure your MongoDB instance.
         # For production, use authentication, authorization, and network encryption (SSL/TLS).
         # Example with authentication: MongoClient('mongodb://user:pass@localhost:27017/')
-        # self.client = MongoClient('mongodb+srv://todoapp:adityA10@cluster0.2u9rf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
         self.client = MongoClient('mongodb://localhost:27017/') 
         self.db = self.client['face_login_db_vgg']
         self.users_collection = self.db['users']
