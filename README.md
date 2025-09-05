@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biometric Authentication System (Facial Recognition)
 
 This project provides a secure and user-friendly authentication system using facial recognition. It replaces or supplements traditional password-based logins with biometric verification, making it harder for unauthorized users to gain access while providing a seamless experience for legitimate users.
@@ -156,3 +157,4 @@ The web application consists of a backend and a frontend that must be run separa
    - **[Steohen N.A Ellis](https://github.com/)** - GUI and FrontEnd
     
    - **[Aditya Rishav](https://github.com/adityarishav)** - Main face data login logic and backend
+
