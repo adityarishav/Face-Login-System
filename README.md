@@ -152,7 +152,7 @@ The web application consists of a backend and a frontend that must be run separa
 
 5  🤝 Contributors
    
-   - **[Salah Yasin](https://github.com/salah47)** - Database,Backend and Hshing 
+   - **[Salah Yasin](https://github.com/salah47)** - Database,Backend and Hashing 
      
    - **[Steohen N.A Ellis](https://github.com/)** - GUI and FrontEnd
     
