@@ -154,7 +154,7 @@ The web application consists of a backend and a frontend that must be run separa
    
    - **[Salah Yasin](https://github.com/salah47)** - Database,Backend and Hashing 
      
-   - **[Steohen N.A Ellis](https://github.com/)** - GUI and FrontEnd
+   - **[Steohen N.A Ellis](https://github.com/Allen-Ellis)** - GUI and FrontEnd
     
    - **[Aditya Rishav](https://github.com/adityarishav)** - Main face data login logic and backend
 
